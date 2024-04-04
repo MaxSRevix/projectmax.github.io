@@ -1,6 +1,6 @@
 .box {
     width: 100%; /* Ajustar el ancho de la caja según tus necesidades */
-    height: 400px; /* Ajustar la altura de la caja según tus necesidades */
+    height: 500px; /* Ajustar la altura de la caja según tus necesidades */
     background-image: url(../img/bg.jpg);
     background-size: cover; /* Ajustar el tamaño de la imagen de fondo para cubrir toda la caja */
     background-position: center; /* Centrar la imagen de fondo */
