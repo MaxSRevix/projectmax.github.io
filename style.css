@@ -1,14 +1,17 @@
-.box {
-    width: 100%; /* Ajustar el ancho de la caja según tus necesidades */
-    height: 500px; /* Ajustar la altura de la caja según tus necesidades */
-    background-image: url(../img/bg.jpg);
-    background-size: cover; /* Ajustar el tamaño de la imagen de fondo para cubrir toda la caja */
-    background-position: center; /* Centrar la imagen de fondo */
-    display: flex; /* Utilizar flexbox para centrar el contenido vertical y horizontalmente */
-    justify-content: center; /* Centrar horizontalmente */
-    align-items: center; /* Centrar verticalmente */
-    text-align: center; /* Alinear el texto al centro */
-    color: white; /* Color del texto */
-    font-size: 24px; /* Tamaño de la fuente */
-    font-family: Arial, sans-serif; /* Fuente del texto */
+body {
+    background-image: url('bg.jpg'); /* Ruta de la imagen de fondo */
+    background-color: #333; /* Cambiar al color de fondo deseado */
+    background-repeat: no-repeat; /* Evita que la imagen de fondo se repita */
+    background-attachment: fixed; /* Mantiene la imagen de fondo fija */
+    background-size: cover; /* Cubre todo el fondo sin distorsionar la imagen */
+    text-align: center;
+    color: #fff; /* Cambiar al color de texto deseado */
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: #ff9900; /* Cambiar al color de texto deseado */
+}
+h2 {
+    color: #ff9900; /* Cambiar al color de texto deseado */
+    font-size: 16px; /* Tamaño de la fuente para la traducción */
 }
