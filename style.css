@@ -7,11 +7,5 @@ body {
     text-align: center;
     color: #fff; /* Cambiar al color de texto deseado */
     font-family: Arial, sans-serif;
-}
-h1 {
-    color: #ff9900; /* Cambiar al color de texto deseado */
-}
-h2 {
-    color: #ff9900; /* Cambiar al color de texto deseado */
-    font-size: 16px; /* Tamaño de la fuente para la traducción */
+    filter: blur(10px); /* Aplicar un desenfoque de 5px a la imagen de fondo */
 }
