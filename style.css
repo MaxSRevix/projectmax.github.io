@@ -1,9 +1,5 @@
 body {
     background-color: #000000; /* Cambia el color de fondo a negro */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh; /* Establece la altura mínima del cuerpo como el 100% de la altura visible */
     background-image: url('bg.jpg'); /* Ruta de la imagen de fondo */
     background-repeat: no-repeat; /* Evita que la imagen de fondo se repita */
     background-attachment: fixed; /* Mantiene la imagen de fondo fija */
