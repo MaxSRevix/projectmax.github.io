@@ -10,6 +10,5 @@ body {
     background-size: cover; /* Cubre todo el fondo sin distorsionar la imagen */
     filter: blur(5px); /* Aplicar un desenfoque de 10px a la imagen de fondo */
     text-align: center;
-    color: #fff; /* Cambiar al color de texto deseado */
     font-family: Arial, sans-serif;
 }
