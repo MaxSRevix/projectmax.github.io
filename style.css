@@ -8,7 +8,7 @@ body {
     background-repeat: no-repeat; /* Evita que la imagen de fondo se repita */
     background-attachment: fixed; /* Mantiene la imagen de fondo fija */
     background-size: cover; /* Cubre todo el fondo sin distorsionar la imagen */
-    filter: blur(10px); /* Aplicar un desenfoque de 10px a la imagen de fondo */
+    filter: blur(5px); /* Aplicar un desenfoque de 10px a la imagen de fondo */
     text-align: center;
     color: #fff; /* Cambiar al color de texto deseado */
     font-family: Arial, sans-serif;
